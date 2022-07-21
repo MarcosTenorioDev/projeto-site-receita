@@ -1,6 +1,7 @@
 # projeto-site-receita
 <p>projeto criado para auxiliar no aprendizado de HTML, CSS e a plataforma figma</p>
 
+https://imgur.com/a/Lk5QmbC
 
 ## ✔️Tecnologias usadas
 - `` HTML``
